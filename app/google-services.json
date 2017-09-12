@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "483977722954",
+    "firebase_url": "https://keychain-2017.firebaseio.com",
+    "project_id": "keychain-2017",
+    "storage_bucket": "keychain-2017.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483977722954:android:eb0cd4d5ec8ab8b4",
+        "android_client_info": {
+          "package_name": "ru.andrort.keychain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483977722954-2vjta7hq399qpkobun9rv9hga9ndnt8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBiIH8_UR1DVCujIoDnnS8OjZ5praZDYY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
